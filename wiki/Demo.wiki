@@ -3,4 +3,4 @@
 
 = Video =
 
-<wiki:video url="http://www.youtube.com/watch?v=3LkNlTNHZzE"/>
+<wiki:video url="http://www.youtube.com/watch?v=LtZ3MeNM3BA"/>

@@ -4,8 +4,10 @@
 = Introduction =
 
 I use NetBeans IDE for making Android Apps.
+
 To Build the OVC-app you could use Eclipse, (i guess)
 but that will be your choice. Not mine.
+
 I will not explain howto build using Eclipse.
 
 

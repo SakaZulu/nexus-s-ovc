@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">OVC</string>
+  <string name="log_tag">OVC Reader</string>
+  <!-- app //-->
+  <string name="place_card">Plaats Kaart</string>
+  <string name="reading_card">Kaart lezen...</string>
+  <string name="please_wait">Even geduld aub...</string>
+  <string name="load_dump">Laad Dump-file</string>
+  <string name="or">Of</string>
+  <string name="now_what">Wat nu ?</string>
+        <!-- ovc //-->
+  <string name="credit">Saldo</string>
+  <string name="card_id">Kaart ID</string>
+  <string name="expdate">Geldig tot</string>
+  <string name="card_type">Type</string>
+  <string name="gebdatum">Geboortedatum</string>
+  <string name="company">Bedrijf</string>
+  <string name="banned">Geblokeerd</string>
+    <!-- error messages //-->
+  <string name="no_nfc">Geen NFC support !</string>
+  <string name="not_enabled">NFC is Niet Enabled !</string>
+  <string name="error_readblock">Kan Block niet Lezen !</string>
+  <string name="incorrect_key">Incorrect Key !</string>
+  <string name="error_see_log">Error ! bekijk stacktrace via DDMS</string>
+  <string name="error_no_key">Error ! Er ontbreken Keys</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+     package="org.nextuxs.ovc">
+  <uses-permission android:name="android.permission.NFC" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.nfc" android:required="true" />
+  <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="10" />
+       <!-- apilevel_10 = android_2.3.3 -->
+  <application android:debuggable="true">
+    <activity android:name=".ReadActivity" android:label="OVC">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity android:name=".ExpertActivity" android:label="Expert"></activity>
+    <activity android:name=".SimpleActivity" android:label="Simple"></activity>
+  </application>
+</manifest>

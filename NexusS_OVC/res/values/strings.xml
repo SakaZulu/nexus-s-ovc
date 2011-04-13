@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">OVC</string>
+  <string name="log_tag">OVC Reader</string>
+    <!-- app -->
+  <string name="place_card">Place Card</string>
+  <string name="reading_card">Reading Card...</string>
+  <string name="please_wait">Please Wait...</string>
+  <string name="load_dump">Load Dump-file</string>
+  <string name="or">Or</string>
+  <string name="done">Done</string>
+  <string name="now_what">Now What?</string>
+  <string name="import_keys">Import Keys</string>
+  <string name="already_keys">There are already Keys from this card in DB</string>
+  <string name="simple">Simple</string>
+  <string name="expert">Expert</string>
+  <string name="save">Save</string>
+  <string name="clear_db">Clear DB</string>
+  <string name="copy_db_2_sd">Copy DB 2 SD/USB-Storage</string>
+    <!-- ovc -->
+  <string name="credit">Credit</string>
+  <string name="card_id">Card ID</string>
+  <string name="expdate">Experation Date</string>
+  <string name="card_type">Type</string>
+  <string name="gebdatum">Date of Birth</string>
+  <string name="company">Company</string>
+  <string name="banned">Banned</string>
+    <!-- error messages -->
+  <string name="no_nfc">No NFC support !</string>
+  <string name="not_enabled">NFC is Not Enabled !</string>
+  <string name="error_readblock">Cannot read Block !</string>
+  <string name="incorrect_key">Incorrect Key !</string>
+  <string name="error_see_log">Error ! see stacktrace via DDMS</string>
+  <string name="error_no_key">Error ! Keys are missing</string>
+</resources>

@@ -1,2 +1,2 @@
 #summary Demo Video
-<wiki:video url="http://www.youtube.com/embed/yTRZkw9Krco"/>
+<wiki:video url="http://www.youtube.com/watch?v=yTRZkw9Krco"/>

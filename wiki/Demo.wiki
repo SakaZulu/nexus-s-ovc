@@ -1,3 +1,2 @@
 #summary Demo Video
-
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/yTRZkw9Krco?rel=0" frameborder="0" allowfullscreen></iframe>
+wiki:video url="http://www.youtube.com/embed/yTRZkw9Krco"/>

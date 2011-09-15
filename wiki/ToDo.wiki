@@ -18,6 +18,6 @@ We should get more information from the card, like:
   * Travel history
 
 TODO:
-* New Layout for Simple Screen
-* More info on Simple Screen
-* The app should also work on devices without NFC (read dumps only)
+  * New Layout for Simple Screen
+  * More info on Simple Screen
+  * The app should also work on devices without NFC (read dumps only)

@@ -16,3 +16,8 @@ We should get more information from the card, like:
   * Date of Birth (personal card only)
   * Transaction history
   * Travel history
+
+TODO:
+- New Layout for Simple Screen
+- More info on Simple Screen
+- The app should also work on devices without NFC (read dumps only)

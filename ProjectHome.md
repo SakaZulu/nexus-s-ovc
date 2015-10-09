@@ -1,0 +1,1 @@
+This project aims to Read the dutch travel card, know as the 'OV-Chipkaart' (or OVC for short), using a Google Nexus S phone.
